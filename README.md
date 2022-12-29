@@ -1,4 +1,4 @@
-# Greetings, you are on the github of a novice programmer - MacIT54!
+# 👋💙Greetings, you are on the github of a novice developer - MacIT54!
 
 ## My skills and tools
 
@@ -11,10 +11,13 @@
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="XML" width="50px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />
 
-## My links:
+<br />
+<br />
 
-### <img align="left" alt="VK" width="50px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/vk_icon_135042.png" />
-https://vk.com/macit54
+## My links
 
-### <img align="left" alt="TG" width="50px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" />
-@MacIT54
+<img align="left" alt="TG" width="29px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" /> @MacIT54
+
+<img align="left" alt="VK" width="35px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/vk_icon_135042.png" /> https://vk.com/macit54
+
+
