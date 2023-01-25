@@ -18,6 +18,6 @@
 
 <img align="left" alt="TG" width="29px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" /> @MacIT54
 
-<img align="left" alt="VK" width="35px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/vk_icon_135042.png" /> https://vk.com/macit54
+<img align="left" alt="VK" width="35px" src="https://pngicon.ru/file/uploads/vk.png" /> https://vk.com/macit54
 
 
