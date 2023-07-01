@@ -1,4 +1,4 @@
-# 👋💙Greetings, you are on the github of a novice developer - MacIT54!
+# 👋💙Greetings! There are all sorts of things here.
 
 ## My skills and tools
 
@@ -12,6 +12,7 @@
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="XML" width="50px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />
 
+<br />
 <br />
 <br />
 
