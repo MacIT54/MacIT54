@@ -1,4 +1,4 @@
-# 👋💙Greetings! There are all sorts of things here.
+# 👋💙Greetings! 
 
 ## My skills and tools
 
