@@ -1,4 +1,4 @@
-# 👋💙Greetings! I am Daniil, a beginner backend developer.
+# 👋💙Greetings! I am Daniil.
 
 ## My skills and tools
 
